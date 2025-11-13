@@ -1,1 +1,5 @@
 # javalab-assignment-1
+
+NAME – SHASHANK TYAGI 
+ROLL NO – 2401201033 
+COURSE- BCA(AI&DS)
